@@ -1,0 +1,32 @@
+{
+  "songs":[
+    {
+      "id":0,
+      "nombre":"Lazy Eye",
+      "artist":"Silversun Pickups",
+      "song":"music/01-sple.mp3",
+      "image":"img/cd-carnavas.jpg"
+    },
+    {
+      "id":1,
+      "nombre":"Little Sister",
+      "artist":"Queens of the Stone Age",
+      "song":"music/02-little.mp3",
+      "image":"img/cd-queens.jpg"
+    },
+    {
+      "id":2,
+      "nombre":"Electric Blue",
+      "artist":"Arcade fire",
+      "song":"music/03-electric.mp3",
+      "image":"img/cd-arcade.jpg"
+    },
+    {
+      "id":3,
+      "nombre":"Incinerate",
+      "artist":"Sonic Youth",
+      "song":"music/04-incinerate.mp3",
+      "image":"img/cd-sonic.jpg"
+    }
+  ]
+}
